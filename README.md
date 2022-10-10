@@ -24,7 +24,7 @@ number. Use the nearest-rank method. https://en.wikipedia.org/wiki/Percentile#Th
 ![image](https://user-images.githubusercontent.com/23581624/194960224-a93fde23-75d3-443d-9552-f13d26c680ad.png)
 
 
-## Running the application
+## Running the Unit Test
 ### Go to the directory
 
 #### ``cd MathAPITest``
